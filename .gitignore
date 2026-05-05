@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+*.log
+*.gz
+*.synctex.gz
+.env
+mosquitto/config/passwd
+epanet/lawa_north_island.xlsx
