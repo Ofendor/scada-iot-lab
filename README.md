@@ -1,10 +1,27 @@
 # SCADA System simulation with IoT 
 > A simulated Industrial Control System (ICS) and SCADA environment modelling a fictional water treatment facility serving the Avondale catchment, Auckland, Aotearoa New Zealand.
 
-![Python](https://img.shields.io/badge/Python-3.12-blue)
-![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-Eclipse%20Mosquitto-purple)
+<!-- Language & libraries -->
+![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-3.0.2-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-2.4.4-013243?logo=numpy&logoColor=white)
+![paho-mqtt](https://img.shields.io/badge/paho--mqtt-2.1.0-660066)
+![EPyT](https://img.shields.io/badge/EPyT%20(EPANET)-2.3.5-blue)
+
+<!-- Infrastructure & services -->
+![Docker](https://img.shields.io/badge/Docker-Engine-2496ED?logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-v2-2496ED?logo=docker&logoColor=white)
+![Eclipse Mosquitto](https://img.shields.io/badge/Eclipse%20Mosquitto-MQTT%20Broker-3C5280?logo=eclipsemosquitto&logoColor=white)
 ![Scada-LTS](https://img.shields.io/badge/Scada--LTS-2.8.0-orange)
+![MySQL](https://img.shields.io/badge/MySQL-5.7-4479A1?logo=mysql&logoColor=white)
+
+<!-- Protocols & environment -->
+![MQTT](https://img.shields.io/badge/MQTT-QoS%201-660066)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-24.04-E95420?logo=ubuntu&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-7.x-183A61?logo=virtualbox&logoColor=white)
+![Git](https://img.shields.io/badge/Git-2.43-F05032?logo=git&logoColor=white)
+
+<!-- Data & standards -->
 ![LAWA](https://img.shields.io/badge/Data-LAWA%20CC%20BY%204.0-green)
 ![NPS-FM](https://img.shields.io/badge/Standard-NPS--FM%202020-teal)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
